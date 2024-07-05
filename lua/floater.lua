@@ -11,7 +11,7 @@ local layout = Layout(
     position = 0,
     size = {
       width = 80,
-      height = #lines + 1,
+      height = 40
     },
   },
   Layout.Box({
