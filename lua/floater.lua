@@ -8,10 +8,10 @@ local popup_one = Popup({
 
 local layout = Layout(
   {
-    position = "50%",
+    position = 0,
     size = {
-      width = "70%",
-      height = "60%",
+      width = 80,
+      height = #lines + 1,
     },
   },
   Layout.Box({
