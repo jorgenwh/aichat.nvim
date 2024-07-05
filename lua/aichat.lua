@@ -1,7 +1,9 @@
+local floater = require("floater")
+
 local M = {}
 
 M.greet = function()
-    print("greetings from aichat")
+    floater.show()
 end
 
 return M
