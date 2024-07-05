@@ -1,7 +1,7 @@
 local M = {}
 
-M.myfunc = function()
-    print("Hello from myfunc")
+M.greet = function()
+    print("greetings from aichat")
 end
 
 return M
