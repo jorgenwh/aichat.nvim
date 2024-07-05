@@ -25,3 +25,4 @@ M.show = function()
     layout:mount()
 end
 
+return M
