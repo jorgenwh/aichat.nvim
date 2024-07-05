@@ -10,7 +10,7 @@ local layout = Layout(
   {
     position = "50%",
     size = {
-      width = 80,
+      width = "70%",
       height = "60%",
     },
   },
